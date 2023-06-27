@@ -17,5 +17,5 @@ El software UPSmart2000R puede obtenerse originalmente desde el sitio web oficia
 
 Para superar esta limitación y poder instalar el software correctamente, sigue los siguientes pasos adicionales (solo usuarios avanzados):
 
-1. Utiliza Cheat Engine u otra herramienta similar para eliminar el valor de la dirección de memoria ```0048CF8```. (Clic derecho y darle en la opción de Replace With Code That Does Nothing).
+1. Utiliza Cheat Engine u otra herramienta similar para eliminar el valor de la dirección de memoria ```0048CF8D```. (Clic derecho y darle en la opción de Replace With Code That Does Nothing).
 2. Una vez eliminado el valor, podrás hacer clic en el botón "Next" que estará habilitado al principio del instalador.
