@@ -1,6 +1,8 @@
 # UPSmart2000R
 Software para UPS PSH 500, PSH 700, PSH 1000, PSH s1000, PSH 1000 Metal, PSH 1500 Metal, PSH 3300 y PSH 4200.
 
+Obtenido de http://pshelectronics.com/descargas.html (UPSMart200r_v1.9.9.exe).
+
 Instalación:
 
 - Presiona el boton verde donde dice «<> Code» y dale clic en «Download ZIP»
